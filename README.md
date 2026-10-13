@@ -293,4 +293,4 @@ The Notification Service subscribes to this topic and processes incoming order e
 
 Developed as a hands-on project to explore Spring Boot microservices, distributed application design, and event-driven communication.
 
-**Note:** Authentication, reliable event delivery, stock reservation, and production-grade deployment are planned improvements and should not be considered implemented until completed and tested.
+
